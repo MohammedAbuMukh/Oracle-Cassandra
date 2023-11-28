@@ -1,0 +1,57 @@
+/* Load.css */
+.load-container {
+  background-color: #1a1a1a; /* Dark background color */
+  min-height: 100vh;
+  color: #fff; /* White text color */
+}
+
+.form-group {
+  margin-bottom: 20px;
+}
+
+label {
+  display: block;
+  font-size: 16px;
+  margin-bottom: 8px;
+}
+
+input {
+  background-color: #333; /* Dark gray input background */
+  color: #fff;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  width: 100%;
+}
+
+button {
+  background-color: #61dafb; /* Light blue button color */
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+button:hover {
+  background-color: #3f8efc; /* Slightly darker blue on hover */
+}
+
+.b {
+  background-color: #61dafb;
+  color: #fff;
+  padding: 10px 20px;
+  text-decoration: none;
+  border: none;
+  border-radius: 5px;
+  display: inline-block;
+  margin-top: 10px;
+  cursor: pointer;
+  text-align: center;
+  transition: background-color 0.3s;
+}
+
+.b:hover {
+  background-color: #3f8efc; /* Slightly darker blue on hover */
+}
